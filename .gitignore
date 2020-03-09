@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.idea
+bin
+etc
+include
+lib
+lib64
+share
+pyvenv.cfg
